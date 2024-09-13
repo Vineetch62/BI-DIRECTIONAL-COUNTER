@@ -21,6 +21,9 @@ This project is a Streamlit app that highlights important parts of contracts and
 - Proteus Simulation Software
 
 ## Circuit Diagram
-![Circuit Diagram](https://github.com/user-attachments/assets/a948a36d-b278-449d-ac8e-e8fc83197cdc)
+
+
+![Circuit Diagram](https://github.com/user-attachments/assets/77eb078b-2131-4f64-ad69-46052ade8f0c)
+
 
 
