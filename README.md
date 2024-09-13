@@ -14,4 +14,13 @@ This project is a Streamlit app that highlights important parts of contracts and
 
 
 
+## Language and Software
+
+- Embedded C
+- Keil µVision 5
+- Proteus Simulation Software
+
+## Circuit Diagram
+![Circuit Diagram](https://github.com/user-attachments/assets/a948a36d-b278-449d-ac8e-e8fc83197cdc)
+
 
