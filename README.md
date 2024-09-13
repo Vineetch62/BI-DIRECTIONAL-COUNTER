@@ -22,14 +22,16 @@ This project is a Streamlit app that highlights important parts of contracts and
 
 ## Circuit Diagram
 
-
-
-
 ![Circuit Diagram](https://github.com/user-attachments/assets/77eb078b-2131-4f64-ad69-46052ade8f0c)
 
 ## Block Diagram
 
-![Block Diagram](https://github.com/user-attachments/assets/06e7ad90-43ba-4c0a-a80a-358bab920915)
+![Block Diagram](https://github.com/user-attachments/assets/463c6a73-0af3-4270-b5e5-9feccb377d59)
+
+## Future Scope
+
+Future improvements for the bidirectional visitor counter could include optimizing power consumption, resolving existing limitations, and adding wireless data transmission for remote monitoring. Incorporating machine learning algorithms would enhance the system’s ability to differentiate between humans and objects. Post-pandemic, these counters could be deployed in hospitals for additional features like mask detection, ensuring safety. Businesses could use the system to predict peak visitor times and optimize staffing. Additionally, the counter could connect to smartphones, laptops, or PCs for real-time data sharing and automation, allowing for adjustments in lighting and temperature based on crowd size.
+
 
 
 
