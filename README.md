@@ -23,7 +23,13 @@ This project is a Streamlit app that highlights important parts of contracts and
 ## Circuit Diagram
 
 
+
+
 ![Circuit Diagram](https://github.com/user-attachments/assets/77eb078b-2131-4f64-ad69-46052ade8f0c)
+
+## Block Diagram
+
+![Block Diagram](https://github.com/user-attachments/assets/06e7ad90-43ba-4c0a-a80a-358bab920915)
 
 
 
